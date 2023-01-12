@@ -1,2 +1,2 @@
 # DACON
-DACON competitions
+DACON study
